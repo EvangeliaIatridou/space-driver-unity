@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3aba81e8382b6834282ac68979b0f12c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - scoreText: {fileID: 7752221749864939666, guid: 27237146789c14941998bc3206a2dc35, type: 3}
+  - highscoreText: {fileID: 7361895131085356614, guid: bb6493e160c6f354fa6bfb170ac4245f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
